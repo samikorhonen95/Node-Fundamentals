@@ -1,0 +1,17 @@
+doctype html
+html
+    head
+        title Add customer
+    body
+        h1 New customer
+        form(action='/addcustomer', method='POST')
+            div
+                input(type="text", name="firstname")
+            div
+                input(type="text", name="lastname")
+            div
+                input(type="text", name="email")
+            div
+                input(type="number", name="phone") 
+            div
+                input(type="submit", value="Add customer")

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a5c6322-d356-457b-86ec-c6b89a091012/resourceGroups/nodecustomerpug-rg/providers/Microsoft.Web/sites/nodecustomerpug",
+    "appService.deploySubpath": "."
+}
